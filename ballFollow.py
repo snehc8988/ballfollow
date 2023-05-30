@@ -7,7 +7,6 @@ import imutils
 import time
 
 ap = argparse.ArgumentParser()
-ap.add_argument("-v", "--video", help=r"C:\Users\steve\Videos\MyComGameCenter")
 ap.add_argument("-b", "--buffer", type=int, default=64, help="max buffer size")
 
 args = vars(ap.parse_args())
