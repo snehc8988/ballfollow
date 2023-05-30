@@ -11,6 +11,7 @@ This repository contains a Python script for tracking a ball using OpenCV. It de
 ## Usage
 
 1. Clone the repository.
-2. Install the required dependencies using pip:
+2. Install the required dependencies using pip: pip install imutils numpy argparse
+
 
 3. Run the script: python ballFollow.py
