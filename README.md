@@ -15,3 +15,5 @@ This repository contains a Python script for tracking a ball using OpenCV. It de
 
 
 3. Run the script: python ballFollow.py
+
+4. Check for the 'q' key to quit the program
